@@ -1,3 +1,4 @@
+//Note Fizz = numnbers divisible by 3, Buzz = numbers divisible by 5, and FizzBuzz = numbers divisible by 3 and 5
 fn main() {
     // Iterate through numbers 1 to 100
     for number in 1..=100 {
